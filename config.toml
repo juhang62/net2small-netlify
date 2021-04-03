@@ -3,7 +3,7 @@ languageCode = "en"
 theme = "color-your-world"
 defaultContentLanguageInSubdir = true
 DefaultContentLanguage = "en"
-copyright = "Copyright © 2008–2020, Net2Small;\n All rights reserved."
+copyright = "Copyright © 2008–2021, Net2Small;\n All rights reserved."
 
 enableEmoji = true
 enableInlineShortcodes = true
@@ -157,26 +157,9 @@ paginate = 5
     paragraph     = "Nothing to see here, buddy."
     
   [params.social.centralized]
-    facebook      = [ "<username>", "Zuckerburg" ]
-    flickr        = [ "<username>" ]
-    github        = [ "<username>" ]
-    gitlab        = [ "<username>" ]
-    instagram     = [ "<username>" ]
-    keybase       = [ "<username>" ]
-    linkedin      = [ "<username>" ]
-    medium        = [ "<username>" ]
-    reddit        = [ "<username>" ]
-    snapchat      = [ "<username>" ]
-    soundcloud    = [ "<username>" ]
-    stackOverflow = [ "<username>" ]
-    strava        = [ "<username>" ]
-    telegram      = [ "<username>" ]
-    twitch        = [ "<username>" ]
-    twitter       = [ "<username>", "@birb" ]
-    vimeo         = [ "<username>" ]
-    whatsapp      = [ "<number>" ]
-    xing          = [ "<username>" ]
-    youtube       = [ "<channelid>" ]
+    youtube       = [ "UCoZDQjxDQU_kGvVDA17XhAA" ]
+    bilibili      = [ "699185570" ]
+    xigua         = [ "3588428703479582" ]
     #entry         = [ "username", "label (optional)" ]
     
     # The "entry" here IS important. It's used to load the data.
@@ -184,26 +167,14 @@ paginate = 5
   [params.social.decentralized]
   
     [params.social.decentralized.element]
-      1 = [ "https://app.element.io/#/user/<username>:matrix.org", "matrix.org" ]
+      #1 = [ "https://app.element.io/#/user/<username>:matrix.org", "matrix.org" ]
       #entry = [ "full url", "label (required)" ]
       
-    [params.social.decentralized.funkwhale]
-      1 = [ "https://open.audio/<username>", "open.audio" ]
-      
     [params.social.decentralized.mastodon]
-      1 = [ "https://mastodon.social/<username>", "mastodon.social" ]
-      2 = [ "https://mastodon.too/<username>", "mastodon.too" ]
-      3 = [ "https://yet.another.one/<username>", "yet.another.one" ]
-      
-    [params.social.decentralized.matrix]
-      1 = [ "https://matrix.to/#/<username>:matrix.org", "matrix.org" ]
-      2 = [ "https://matrix.to/#/<username>:other.org", "other.org" ]
-      
-    [params.social.decentralized.peertube]
-      1 = [ "https://peertube.something/accounts/<username>", "peertube.something" ]
-      
-    [params.social.decentralized.pixelfed]
-      1 = [ "https://pixelfed.social/<username>", "pixelfed.social" ]
+      #1 = [ "https://mastodon.social/<username>", "mastodon.social" ]
+      #2 = [ "https://mastodon.too/<username>", "mastodon.too" ]
+      #3 = [ "https://yet.another.one/<username>", "yet.another.one" ]
+
       
     # The "entry" here ISN'T important. It's used for nothing.
     
@@ -240,7 +211,7 @@ paginate = 5
 [languages]
 
   [languages.en]
-    title = "Overclock Tutoring"
+    title = "net2small's blog"
     languageName = "English"
 
     [languages.en.menu]
@@ -260,11 +231,11 @@ paginate = 5
         weight = 3
         url = "contact/"
 
-    [languages.cn]
-      title = "网太小"
-      languageName  = "中文"
+  [languages.cn]
+    title = "网太小的博客"
+    languageName  = "中文"
       
-      copyright = "Copyright © 2008–2020, 网太小 | Net2Small;\n All rights reserved."
+      copyright = "Copyright © 2008–2021, 网太小 | net2small;\n All rights reserved."
 
       [languages.cn.params]        
         description = "介绍"
@@ -284,7 +255,7 @@ paginate = 5
       [languages.cn.menu]
 
         [[languages.cn.menu.main]]
-          name = "关于我们"
+          name = "关于我"
           weight = 1
           url = "about/"
 

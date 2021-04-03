@@ -232,5 +232,23 @@
       "id": "youtube",
       "source": "Font-Awesome"
     }
+  },
+    {
+    "entry": "bilibili",
+    "label": "Bilibili",
+    "base": "https://space.bilibili.com/",
+    "icon": {
+      "id": "bilibili",
+      "source": "simpleicons"
+    }
+  },
+  {
+    "entry": "xigua",
+    "label": "西瓜视频",
+    "base": "https://ixigua.com/home/",
+    "icon": {
+      "id": "xigua",
+      "source": "freeicons"
+    }
   }
 ]

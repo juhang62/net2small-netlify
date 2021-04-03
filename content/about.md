@@ -1,11 +1,11 @@
 +++
 title = "About"
-description = "Net2Small focuses on catching big fish"
-author = "Net2Small"
+description = "net2small focuses on catching big fish"
+author = "net2small"
 +++
  <!--
 date = "2019-02-28"
 aliases = ["about-us", "about-hugo", "contact"]
 -->
-Net2Small focuses on catching big fish
+net2small focuses on catching big fish
 
