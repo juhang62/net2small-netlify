@@ -177,6 +177,10 @@ paginate = 5
 
       
     # The "entry" here ISN'T important. It's used for nothing.
+
+  [params.staticman]
+    api="https://staticman-net2small.herokuapp.com/v2/entry/juhang62/net2small-netlify/main/comments"
+
     
     
 [privacy]
@@ -277,3 +281,7 @@ paginate = 5
             email   = "me@janedoe.com"
             subject = 'Só dando um "oi"'
             message = "Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla nullam quis risus."
+
+
+
+
