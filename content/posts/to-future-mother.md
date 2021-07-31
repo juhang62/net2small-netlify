@@ -19,7 +19,7 @@ In the following, I will describe a few expectations of you (of course they are 
 
 Thank you very much for reading. If you are interested, please contact me.
 
-Sinerely,
+Sinerely,  
 net2small
 
 
