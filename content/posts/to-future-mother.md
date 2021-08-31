@@ -1,5 +1,5 @@
 ---
-title: "How Will I Meet Your Momther"
+title: "How Will I Meet Your Mother"
 date: 2021-07-31T14:11:59-07:00
 draft: false
 ---
