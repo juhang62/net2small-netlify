@@ -17,7 +17,7 @@ In the following, I will describe a few expectations I have for my co-parenting 
 - You will reflects on parenting and strive to be a better parent
 - Preferably, we will raise our kid(s) togehter where we play father and mother roles. Or at least, we shall maintain a healthy and balanced fatherhood and motherhood for our kid(s).
 
-Thank you very much for reading. If you are interested, please contact me or complete (this Google form)[https://docs.google.com/forms/d/e/1FAIpQLSeDXGvFPFh-9cK7euWTBk6T_iw5v7PVwg_j4EXyIiBxA5XeZA/viewform?usp=sf_link].
+Thank you very much for reading. If you are interested, please contact me or complete [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSeDXGvFPFh-9cK7euWTBk6T_iw5v7PVwg_j4EXyIiBxA5XeZA/viewform?usp=sf_link).
 
 Sinerely,  
 net2small
