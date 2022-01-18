@@ -1,7 +1,7 @@
 ---
 title: "To the mother of our future kid(s)"
 date: 2021-07-31T14:11:59-07:00
-draft: false
+draft: true
 ---
 Fishmen are always on search for the best fish they dreamt about. But it may never come along in real life. So does a soul mate and life partner. However, having a kid does not have to come next. I love kids and want to have my own. I was wondering how that will happen. I guess it may start with an open letter..
 
