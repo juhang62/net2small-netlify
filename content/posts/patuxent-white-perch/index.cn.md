@@ -1,6 +1,6 @@
 ---
 title: "小红帽号首航记"
-date: 2022-04-10T19:30:50-04:00
+date: 2022-04-03T19:30:50-04:00
 cover         : "patuxent-river.jpg"
 coverAlt      : "Muddy Patuxent River"
 draft: false
