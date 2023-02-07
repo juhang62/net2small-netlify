@@ -5,7 +5,6 @@ cover         : "winter-potomac-river.jpg"
 coverAlt      : "Potomac River in Winter"
 draft: false
 ---
-![Potomac River in Winter](winter-potomac-river.jpg)
 
 [鲶鱼大哥在春天走来]({{< ref "/posts/potomac-catfish-carp" >}})，却在秋天说要分开。到了冬天，真的难觅其踪迹了：为了找到他，我几乎赔光了所有的铅坠。今天先去沃尔玛做了补充，装备了最重的铅坠，随即奔赴了波托马克河（Potomac River）。
 
