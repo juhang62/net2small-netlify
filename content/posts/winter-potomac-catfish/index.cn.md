@@ -19,6 +19,6 @@ draft: false
 天还是天，喔鱼，鱼还是鱼，只是多了一个记忆。
 
 
-![Cauthgt winter catfish](caught-winter-catfish.gif)
+![Cauthgt winter catfish](caught-winter-catfish.jpg)
 
 ![Cauthgt winter catfish](winter-catfish-solo.jpg)
