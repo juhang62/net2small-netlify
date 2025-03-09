@@ -22,8 +22,8 @@ draft: false
 这次小虾米没刷到啥渔获，却收获了知识，不知道离大侠是不是更进一步了呢？
 
 
-![Jetty fishing on Fort Pickens](jetty-fishing-port-dickens)
+![Jetty fishing on Fort Pickens](jetty-fishing-fort-pickens.jpg)
 
 ![Sun set viewed from the fishing bridge](sunset-fishing-bridge.jpg)
 
-![Light band viewed from the fishing bridge](speckled-trout.jpg)
+![Light band viewed from the fishing bridge](light-band-fishing-bridge.jpg)
