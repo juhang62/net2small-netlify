@@ -24,7 +24,7 @@ draft: false
 
 ![flouder](flounder.jpg)
 
-![redfish](redfish.jpg)
+![redfish](redfish.png)
 
 ![speckled-trout](speckled-trout.jpg)
 
