@@ -22,6 +22,6 @@ draft: false
 
 ![river spill out](river-spill-out.jpg)
 
-![sucker](sucker.png)
+![sucker](sucker.jpg)
 
 ![pike](pike.jpg)
