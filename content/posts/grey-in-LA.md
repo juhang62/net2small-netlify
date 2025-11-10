@@ -1,7 +1,7 @@
 ---
 title: "Grey in LA"
 date: 2021-02-11T09:11:59-07:00
-draft: false
+draft: true
 ---
 
 I don’t know if the overcast sky in LA is as rare as it appears in that song. In fact, my few encounters with LA are mostly grey. Nevertheless, I agree with the song that we should appreciate this way.  Chinese consulate just issued me a green QR code which will allow me to board the plane to China later today. All the traveling complications due to COVID-19 turned out less stressful than I expected. 
